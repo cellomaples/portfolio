@@ -1,5 +1,9 @@
 
 
+# This is a dashboard designed and built in R using Shiny. It was originally used in a hospital department to
+# visualize employee self-reported health assessment survey responses over a three-year period. The data has 
+# been de-identified and synthesized.
+
 library(shiny)
 library(shinythemes)
 library(shinyWidgets)
