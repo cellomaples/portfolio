@@ -1,4 +1,7 @@
 
+# This is a Python script that was used to monitor customer order counts, and close & re-open pickup locations
+# for an online marketplace. It will also generate a .csv data file every minute for real-time visualization options.
+
 import requests
 from bs4 import BeautifulSoup
 import json
